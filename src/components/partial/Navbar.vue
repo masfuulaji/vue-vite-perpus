@@ -36,14 +36,15 @@
 }
 .link-navbar {
     margin-left: 20px;
-    color: #fff;
+    color: rgba(255, 255, 255, 0.789);
     text-decoration: none;
     transition-duration: 0.5s;
-    font-family: sans-serif;
+    font-family:fantasy;
     font-size: 15;
+    font-weight: 700;
 }
 .link-navbar:hover {
-    color: rgb(7, 0, 216);
+    color: rgba(120, 120, 120, 0.793);
     text-decoration: underline;
 }
 </style>
